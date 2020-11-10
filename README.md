@@ -1,1 +1,1 @@
-practice learn java :)
+basic study practice Java :)
