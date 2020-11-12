@@ -24,7 +24,7 @@ public class snippet_3 {
         if (c > 0) k++;
         else if (c < 0)ko++;
 
-        System.out.println("kp(>0) = "+k);
+        System.out.println("k(>0) = "+k);
         System.out.print("ko(<0) = "+ko);
 
     }
