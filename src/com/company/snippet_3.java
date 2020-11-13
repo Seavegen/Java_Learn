@@ -15,7 +15,7 @@ public class snippet_3 {
         int b = sc.nextInt();
         System.out.print("Введите число для c: ");
         int c = sc.nextInt();
-        double k = 0, ko = 0;
+        int k = 0, ko = 0;
 
         if (a > 0) k++;
         else if (a < 0)ko++;
